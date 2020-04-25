@@ -1,0 +1,4 @@
+Enunciado tarea 2
+Fecha: 17 de marzo
+
+Se pueda definir precio del tiquete, así como la capacidad del sitio y que al vender tiquetes se actualice la cantidad de asientos disponibles
