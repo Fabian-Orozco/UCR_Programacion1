@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Covid19
+comment1.params=
+comment1.target=Covid19()
+comment2.params=
+comment2.target=int\ sumeCasos()
+comment3.params=
+comment3.target=java.lang.String\ casosMinimos()
+comment4.params=
+comment4.target=java.lang.String\ casosMaximos()
+comment5.params=valorDeColumna
+comment5.target=void\ creeHistograma(int)
+comment6.params=
+comment6.target=void\ muestre()
+comment7.params=ar
+comment7.target=void\ main(java.lang.String[])
+numComments=8
