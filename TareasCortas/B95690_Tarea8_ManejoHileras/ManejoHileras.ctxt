@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ManejoHileras
+comment1.params=palabra
+comment1.target=void\ palabra(java.lang.String)
+comment2.params=palabra\ blancosIniciales
+comment2.target=java.lang.String\ blancos(java.lang.String,\ java.lang.String)
+comment3.params=palabra\ recorrido\ porRecorrer
+comment3.target=java.lang.String\ muestrePiramide1(java.lang.String,\ int,\ int)
+comment4.params=palabra\ recorrido\ porRecorrer
+comment4.target=java.lang.String\ muestrePiramide2(java.lang.String,\ int,\ int)
+comment5.params=palabra
+comment5.target=boolean\ esPalindromo(java.lang.String)
+comment6.params=frase
+comment6.target=boolean\ fraseEsPalindromo(java.lang.String)
+comment7.params=a
+comment7.target=void\ main(java.lang.String[])
+numComments=8
