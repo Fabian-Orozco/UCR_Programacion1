@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ejercicio6
+comment1.params=sustantivosSeparadosPorComa
+comment1.target=void\ ejercicio6(java.lang.String)
+comment2.params=contador\ singular\ plural\ ultima\ penultima
+comment2.target=java.lang.String[]\ pluralice(int,\ java.lang.String[],\ java.lang.String[],\ char,\ char)
+comment3.params=vector\ contador
+comment3.target=java.lang.String\ muestreVector(java.lang.String[],\ int)
+comment4.params=a
+comment4.target=void\ main(java.lang.String[])
+numComments=5

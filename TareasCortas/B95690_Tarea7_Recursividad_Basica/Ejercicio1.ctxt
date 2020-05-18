@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment1.params=numerosSeparadosPorComa
+comment1.target=void\ ejercicio1(java.lang.String)
+comment2.params=contador\ numero\ nota
+comment2.target=int[]\ lleneVector(int,\ java.lang.String[],\ int[])
+comment3.params=contador\ numero\ nota
+comment3.target=int[]\ imprimeNotas(int,\ java.lang.String[],\ int[])
+comment4.params=contador\ indice
+comment4.target=int\ mayorOIgualASiete(int,\ int)
+comment5.params=a
+comment5.target=void\ main(java.lang.String[])
+numComments=6

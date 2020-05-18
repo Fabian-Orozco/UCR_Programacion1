@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ejercicio5
+comment1.params=base\ exponente
+comment1.target=void\ ejercicio5(int,\ int)
+comment2.params=base\ exponente\ resultado
+comment2.target=int\ potencie(int,\ int,\ int)
+comment3.params=a
+comment3.target=void\ main(java.lang.String[])
+numComments=4
