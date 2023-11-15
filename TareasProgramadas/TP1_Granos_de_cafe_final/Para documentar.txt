@@ -1,0 +1,8 @@
+Qué cosas se tienen que comentar:
+
+Un comentario sobre la clase
+
+Constructor
+cada método(se agregan @param para los parámetros junto al comentario del método
+si tiene un return @return a la par de ese return como comentario
+)

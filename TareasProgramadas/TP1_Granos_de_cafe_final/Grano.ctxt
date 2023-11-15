@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Grano
+comment1.params=
+comment1.target=Grano()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Grano,\ se\ encarga\ de\ asignar\ valores\ aleatorios\ de\ tama\u00F1o,\ peso\ y\ tipo\ de\ grano\ de\ caf\u00E9.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCategoriaPeso()
+comment2.text=\r\n\ M\u00E9todo\ que\ retorna\ la\ categor\u00EDa\ de\ peso\ almacenada\ en\ el\ atributo\ de\ clase,\ osea\ la\ Categor\u00EDa\ a\ la\ que\ pertenece\ este\ grano.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTipoGrano()
+comment3.text=\r\n\ M\u00E9todo\ que\ retorna\ la\ subespecie\ o\ tipo\ de\ grano\ a\ la\ que\ pertenece\ esta\ instancia/Grano\r\n
+comment4.params=
+comment4.target=int\ getPesoGrano()
+comment4.text=\r\n\ M\u00E9todo\ que\ retorna\ el\ peso\ de\ este\ grano\r\n
+comment5.params=
+comment5.target=java.lang.String\ getTama\u00F1oGrano()
+comment5.text=\r\n\ M\u00E9todo\ que\ retorna\ el\ tama\u00F1o\ del\ grano\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ M\u00E9todo\ toString\ que\ se\ usa\ para\ imprimir\ el\ estado\ del\ objeto\ de\ esta\ clase.\r\n
+numComments=7

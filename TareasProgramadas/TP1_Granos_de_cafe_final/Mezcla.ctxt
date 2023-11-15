@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Mezcla
+comment0.text=\n\ La\ Clase\ Mezcla\ contiene\ las\ caracter\u00EDsticas\ necesarias\ para\ crear\ una\ mezcla\ de\ caf\u00E9\ con\ diversas\ subespecies\ de\ granos\ de\ caf\u00E9.\n\ @author\:\ Zurisadai\ Granados\ Montoya\ carn\u00E9\ B53177,\ Fabi\u00E1n\ Orozco\ Chaves\ carn\u00E9\ B95690.\n\ @version\:\ 14/05/2020/\n
+comment1.params=nombre\ porcentajeArabiga\ porcentajeCatuai\ porcentajeCaturra\ kilos
+comment1.target=Mezcla(java.lang.String,\ int,\ int,\ int,\ int)
+comment1.text=\n\ Constructor\ de\ la\ Clase\ Mezcla,\ recibe\ 5\ par\u00E1metros.\n\ Inicializa\ atributos\ de\ la\ clase\ y\ almacena\ otros\ tipos\ de\ informaci\u00F3n\ necesarias\ para\ ejecutar\ los\ m\u00E9todos\ de\ clase.\n@param\ nombre\ String\ que\ se\ usa\ para\ asignarle\ un\ nombre\ a\ esta\ receta\ /\ mezcla\n@param\ porcentajeArabiga\ Entero\ que\ se\ contiene\ la\ proporci\u00F3n\ de\ granos\ ar\u00E1bica\ que\ debe\ usarse\ en\ esta\ receta\ /\ mezcla\n@param\ porcentajeCatuai\ Entero\ que\ se\ contiene\ la\ proporci\u00F3n\ de\ granos\ catua\u00ED\ que\ debe\ usarse\ en\ esta\ receta\ /\ mezcla\n@param\ porcentajeCaturra\ Entero\ que\ se\ contiene\ la\ proporci\u00F3n\ de\ granos\ caturra\ que\ debe\ usarse\ en\ esta\ receta\ /\ mezcla\n@param\ kilos\ Entero\ que\ dice\ la\ cantidad\ de\ kilos\ de\ caf\u00E9\ que\ se\ producen\ al\ utilizar\ esta\ receta\ /\ mezcla.\n
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=\n\ M\u00E9todo\ que\ devuelve\ el\ nombre\ con\ el\ que\ se\ cre\u00F3\ esta\ receta\ /\ mezcla\n
+comment3.params=indiceVector
+comment3.target=int\ getPesoRequerido(int)
+comment3.text=\n\ M\u00E9todo\ que\ devuelve\ un\ vector\ con\ el\ peso\ en\ granos,\ que\ se\ necesita\ para\ crear\ esta\ receta,\ cada\ indice\ del\ vector\ contiene\ el\ peso\ necesario\ por\ separado\ de\ una\ de\ las\ subespecies\n\ @param\ indiceVector\ par\u00E1metro\ de\ tipo\ entero\ que\ especif\u00EDca\ cual\ peso\ se\ desea\ devolver.\ 1\ \=\ Ar\u00E1bica\ 2\ \=\ Catua\u00ED\ 3\ \=\ Caturra\n
+comment4.params=
+comment4.target=int\ getPesoMezcla()
+comment4.text=\n\ M\u00E9todo\ que\ retorna\ el\ peso\ en\ kilos,\ que\ se\ generan\ al\ realizar\ esta\ receta\ /\ mezcla.\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ M\u00E9todo\ toString\ que\ se\ usa\ para\ imprimir\ el\ estado\ del\ objeto\ de\ esta\ clase.\n
+comment6.params=
+comment6.target=java.lang.String\ toStringReducido()
+comment6.text=\n\ M\u00E9todo\ toString\ que\ no\ recibe\ par\u00E1metros.\ Imprime\ los\ datos\ esenciales\ de\ una\ mezcla.\n\ Muestra\ el\ porcentaje\ del\ peso\ requerido\ de\ cada\ subespecie\ para\ producir\ la\ mezcla,\n\ as\u00ED\ como\ el\ o\ los\ kilos\ de\ mezcla\ que\ se\ hayan\ definido\ para\ tal\ mezcla.\n
+numComments=7
